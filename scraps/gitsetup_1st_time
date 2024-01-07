@@ -1,0 +1,3 @@
+git config --global core.editor "vi"
+git config --global user.email "noel.molon@gmail.com"
+git config --global user.name "Noel Molon"
